@@ -33,6 +33,8 @@ Aktuell veröffentliche ich fast täglich neue Versionen. Die aktuelle Version i
 
 ### Kontakt
 
+In der Abwesendheit von Metrox, werde ich die den Bogen weiterentwickeln, so gut ich kann. Der Großteil der Arbeit wurde von Ihm entwicktelt.
+
 * [Discord](https://discord.gg/KT5qj9)
 * Email: (gebhardthbs@web.de)
 * [Patreon](https://www.patreon.com/user?u=118076)
