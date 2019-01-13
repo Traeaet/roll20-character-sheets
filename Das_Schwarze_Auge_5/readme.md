@@ -18,7 +18,7 @@ Aktuell findet Ihr hier eine Erklärung der kürzlich eingeführten Features sow
  * **Changelog/Anleitung/Bugtracker:** Mit einem Click wird euch der Link für den Changelog / Readme / Bugtracker im Chat angezeigt
  * **Chatausgabe:** Je nach Auswahl werden eure Proben im Chat für alle, dich und den GM oder nur für dich sichtbar
  * **Modifikator:** Alle Proben die zuvor nach einem Modifikator gefragt haben können mit der Wahl 'nein' sofort unmodifiziert gewürfelt werden ohne das sich ein Eingabefeld öffnet, entsprechende doppelte Würfelfelder wurden entfernt
- * **Inhaltliche Änderungen:** Alle weiteren Änderungen sind im [Changelog](https://github.com/Meteox/roll20-character-sheets/blob/master/Das_Schwarze_Auge_5/changelog.md) dokumentiert
+ * **Inhaltliche Änderungen:** Alle weiteren Änderungen sind im [Changelog](https://github.com/Turkelton/roll20-character-sheets/blob/master/Das_Schwarze_Auge_5/changelog.md) dokumentiert
 
 ### Updates
 
@@ -31,10 +31,11 @@ Als Pro-Nutzer könnt Ihr über Github den aktuellen Quellcode in eure Kampagne 
 
 Aktuell veröffentliche ich fast täglich neue Versionen. Die aktuelle Version ist in meiner [öffentlichen Testkampagne](https://app.roll20.net/join/1206379/qP-T_Q) und in [Github](https://github.com/Meteox/roll20-character-sheets/tree/master/Das_Schwarze_Auge_5) einsehbar. 
 
+Es wird, sobald ich die erste neue Version veröffentliche, eine neue Kampange zum testen geben.
+
 ### Kontakt
 
-In der Abwesendheit von Metrox, werde ich die den Bogen weiterentwickeln, so gut ich kann. Der Großteil der Arbeit wurde von Ihm entwicktelt.
+In der Abwesendheit von Metrox, werde ich die den Bogen weiterentwickeln, so gut ich kann. Metrox hat eine großartige Vorbereitung geleistet. Bitte nutzt bis auf weiteres die Issue Funktion, für Bugs und Funktionswünsche.en
 
-* [Discord](https://discord.gg/KT5qj9)
-* Email: (gebhardthbs@web.de)
-* [Patreon](https://www.patreon.com/user?u=118076)
+* [Github](https://github.com/Turkelton/roll20-character-sheets/issues)
+* [Twitter](https://twitter.com/MrTurkelton)

@@ -1,3 +1,9 @@
+## 1.2.4
+- 13.01.2018
+### Allgemeines
+- Übernahme des Projektes, bis auf Rückkehr von Metrox
+- Begonnen den Code zu dokumentieren
+
 ## 1.2.3
  - 09.10.2018
 
