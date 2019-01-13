@@ -29,7 +29,7 @@ Als Pro-Nutzer könnt Ihr über Github den aktuellen Quellcode in eure Kampagne 
 
 ### Testen von neuen Versionen
 
-Aktuell veröffentliche ich fast täglich neue Versionen. Die aktuelle Version ist in meiner [öffentlichen Testkampagne](https://app.roll20.net/join/1206379/qP-T_Q) und in [Github](https://github.com/Meteox/roll20-character-sheets/tree/master/Das_Schwarze_Auge_5) einsehbar. 
+Aktuell veröffentliche ich fast täglich neue Versionen. Die aktuelle Version ist in meiner [öffentlichen Testkampagne](https://app.roll20.net/join/1206379/qP-T_Q) und in [Github](https://github.com/Turkelton/roll20-character-sheets/blob/master/Das_Schwarze_Auge_5) einsehbar. 
 
 Es wird, sobald ich die erste neue Version veröffentliche, eine neue Kampange zum testen geben.
 
