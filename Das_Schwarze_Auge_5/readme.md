@@ -21,7 +21,7 @@ Aktuell findet Ihr hier eine Erklärung der kürzlich eingeführten Features sow
  * **Inhaltliche Änderungen:** Alle weiteren Änderungen sind im [Changelog](https://github.com/Turkelton/roll20-character-sheets/blob/master/Das_Schwarze_Auge_5/changelog.md) dokumentiert
 
 ### Updates
-
+Einen aktuellen Entwicklungsstand findest du auf Trello, hier hast du einen guten Überblick, an was gerade im Bogen gearbeitet wird.
 Wenn ich ein Update fertigstelle dauert es eine Weile bis dieses offen verfügbar ist. Roll20 fügt Updates in der Regel Montag oder Dienstag Ihrer Datenbank hinzu und veröffentlicht diese dann in der Regel Dienstags oder Mittwochs. Über diesen Veröffentlichungstermin habe ich keine Kontrolle.
 
 Als Pro-Nutzer könnt Ihr über Github den aktuellen Quellcode in eure Kampagne einbinden ohne auf den öffentlichen Release zu warten.
@@ -29,13 +29,13 @@ Als Pro-Nutzer könnt Ihr über Github den aktuellen Quellcode in eure Kampagne 
 
 ### Testen von neuen Versionen
 
-Aktuell veröffentliche ich fast täglich neue Versionen. Die aktuelle Version ist in meiner [öffentlichen Testkampagne](https://app.roll20.net/join/1206379/qP-T_Q) und in [Github](https://github.com/Turkelton/roll20-character-sheets/blob/master/Das_Schwarze_Auge_5) einsehbar. 
 
 Es wird, sobald ich die erste neue Version veröffentliche, eine neue Kampange zum testen geben.
 
 ### Kontakt
 
-In der Abwesendheit von Metrox, werde ich die den Bogen weiterentwickeln, so gut ich kann. Metrox hat eine großartige Vorbereitung geleistet. Bitte nutzt bis auf weiteres die Issue Funktion, für Bugs und Funktionswünsche.en
+In der Abwesendheit von Metrox, werde ich die den Bogen weiterentwickeln, so gut ich kann. Metrox hat eine großartige Vorbereitung geleistet. Bitte nutzt bis auf weiteres die Issue Funktion, für Bugs und Funktionswünsche. 
 
 * [Github](https://github.com/Turkelton/roll20-character-sheets/issues)
 * [Twitter](https://twitter.com/MrTurkelton)
+* [Trello](https://trello.com/b/EhQ5UyU9/roll-20-dsa-5-modul)
