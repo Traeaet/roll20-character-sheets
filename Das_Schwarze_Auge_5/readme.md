@@ -30,7 +30,7 @@ Als Pro-Nutzer könnt Ihr über Github den aktuellen Quellcode in eure Kampagne 
 ### Testen von neuen Versionen
 
 
-Es wird, sobald ich die erste neue Version veröffentliche, eine neue Kampange zum testen geben.
+Sobald ich die nächste Version veröffentliche, wird es auch eine öffentliche Roll20 Test-Kampagne geben.
 
 ### Kontakt
 
