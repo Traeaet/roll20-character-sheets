@@ -1,5 +1,5 @@
 ## 1.2.4
-- 13.01.2018
+- Erste fehlende Zaubertricks sind gepflegt
 ### Allgemeines
 - Übernahme des Projektes, bis auf Rückkehr von Metrox
 - Begonnen den Code zu dokumentieren
