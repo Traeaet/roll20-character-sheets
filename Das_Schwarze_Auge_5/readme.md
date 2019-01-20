@@ -39,3 +39,4 @@ In der Abwesendheit von Metrox, werde ich die den Bogen weiterentwickeln, so gut
 * [Github](https://github.com/Turkelton/roll20-character-sheets/issues)
 * [Twitter](https://twitter.com/MrTurkelton)
 * [Trello](https://trello.com/b/EhQ5UyU9/roll-20-dsa-5-modul)
+* [Discord](https://discord.gg/Z4bwp6Q)
