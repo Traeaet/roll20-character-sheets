@@ -146,6 +146,7 @@
 								<option value="Thorwaler" data-i18n="Thorwaler">Thorwaler</option>
 								<option value="Trollzacker" data-i18n="Trollzacker">Trollzacker</option>
 								<option value="Waldelfen" data-i18n="Waldelfen">Waldelfen</option>
+								<option value="Wildzwerge" data-i18n="Wildzwerge">Wildzwerge</option>
 								<option value="Zyklopäer" data-i18n="Zyklopäer">Zyklopäer</option>
 							</select>
 						</td>
@@ -3356,6 +3357,14 @@
 					<th data-i18n="Stufe-2">Stufe II<br>(-2)</th>
 					<th data-i18n="Stufe-3">Stufe III<br>(-3)</th>
 					<th data-i18n="Stufe-4">Stufe IV<br>(Handlungsunfähig)</th>
+				</tr>
+				<tr align="center">
+					<td data-i18n="Animosität">Animosität</td>
+					<td><input type="radio" name="attr_Animosität" value="0" checked="checked"></td>
+					<td><input type="radio" name="attr_Animositaet" value="1"></td>
+					<td><input type="radio" name="attr_Animositaet" value="2"></td>
+					<td><input type="radio" name="attr_Animositaet" value="3"></td>
+					<td><input type="radio" name="attr_Animositaet" value="4"></td>
 				</tr>
 				<tr align="center">
 					<td data-i18n="Betäubung">Betäubung</td>
@@ -15613,18 +15622,26 @@
 			<div align="left" style="display:inline-block" data-i18n="Tradition">Tradition: </div>
 				<select type="number" name="attr_tradition_goetter" style="width: 10em;">
 					<option value="---" data-i18n="---">---</option>
+					<option value="Aves" data-i18n="Aves">Aves</option>
 					<option value="Praios" data-i18n="Praios">Praios</option>
 					<option value="Rondra" data-i18n="Rondra">Rondra</option>
 					<option value="Boron" data-i18n="Boron">Boron</option>
 					<option value="Hesinde" data-i18n="Hesinde">Hesinde</option>
+					<option value="Kor" data-i18n="Kor">Kor</option>
+					<option value="Levthan" data-i18n="levthan">Levthan</option>
+					<option value="Namenloser" data-i18n="Namenloser">Namenloser</option>
+					<option value="Nandus" data-i18n="Nandus">Nandus</option>
 					<option value="Phex" data-i18n="Phex">Phex</option>
 					<option value="Peraine" data-i18n="Peraine">Peraine</option>
-					<option value="Firun" disabled data-i18n="Firun">Firun</option>
-					<option value="Tsa" disabled data-i18n="Tsa">Tsa</option>
-					<option value="Travia" disabled data-i18n="Travia">Travia</option>
-					<option value="Ingerimm" disabled data-i18n="Ingerimm">Ingerimm</option>
-					<option value="Efferd" disabled data-i18n="Efferd">Efferd</option>
-					<option value="Rahja" disabled data-i18n="Rahja">Rahja</option>
+					<option value="Firun" data-i18n="Firun">Firun</option>
+					<option value="Ifirn" data-i18n="Ifirn">Ifirn</option>
+					<option value="Tsa" data-i18n="Tsa">Tsa</option>
+					<option value="Travia" data-i18n="Travia">Travia</option>
+					<option value="Ingerimm" data-i18n="Ingerimm">Ingerimm</option>
+					<option value="Efferd" data-i18n="Efferd">Efferd</option>
+					<option value="Rahja" data-i18n="Rahja">Rahja</option>
+					<option value="Swafnir" data-i18n="Swafnir">Swafnir</option>
+					<option value="Mada" disabled data-i18n="Mada">Mada</option>
 				</select>
 			<div align="left" style="display:inline-block" data-i18n="Tradition">Tradition: </div>
 				<select type="number" name="attr_tradition_goetter_leiteigenschaft" style="width: 10em;">
@@ -15632,6 +15649,7 @@
 					<option value="MU" data-i18n="MU">MU</option>
 					<option value="KL" data-i18n="KL">KL</option>
 					<option value="IN" data-i18n="IN">IN</option>
+					<option value="CH" data-i18n="CH">CH</option>
 				</select>
 			<div class='sheet-2colrow'>
 				<div class='sheet-col'>
